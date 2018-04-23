@@ -14,3 +14,5 @@
 
 * LabView 2016
 * NI Visa 16.0
+
+![Front panel](https://github.com/christiandbf/Control_ON-OFF_Temperature/blob/master/img/sample.png)
